@@ -12,14 +12,14 @@ require (
 	github.com/fatih/color v1.10.0
 	github.com/golangci/golangci-lint v1.34.1
 	github.com/google/go-github/v28 v28.1.1
-	github.com/goreleaser/fileglob v0.3.1
-	github.com/goreleaser/nfpm/v2 v2.2.2
-	github.com/imdario/mergo v0.3.11
+	github.com/goreleaser/fileglob v1.2.0
+	github.com/goreleaser/nfpm/v2 v2.5.1
+	github.com/imdario/mergo v0.3.12
 	github.com/jarcoal/httpmock v1.0.7
 	github.com/mattn/go-shellwords v1.0.10
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/spf13/cobra v1.1.1
-	github.com/stretchr/testify v1.6.1
+	github.com/spf13/cobra v1.1.3
+	github.com/stretchr/testify v1.7.0
 	github.com/ulikunitz/xz v0.5.9
 	github.com/xanzy/go-gitlab v0.41.0
 	gocloud.dev v0.21.0
